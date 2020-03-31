@@ -41,6 +41,11 @@ transition-delay: 10ms;
 	display: block;
 
 }
+.id{
+	position=relative;
+	bottom=50px;
+}
+	
 
 
 
